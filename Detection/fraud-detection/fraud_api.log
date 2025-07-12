@@ -1,0 +1,346 @@
+2025-07-06 23:31:48,185 - api - INFO - TensorFlow SavedModel loaded successfully from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-06 23:31:48,211 - api - INFO - Scaler parameters loaded successfully
+2025-07-06 23:31:48,213 - api - WARNING - Scaler expects 19 features but code expects 17. This may cause problems.
+2025-07-06 23:31:48,213 - api - INFO - Fraud Detection API started successfully
+2025-07-06 23:41:05,561 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:41:08,959 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:41:16,150 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:41:18,219 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:41:25,754 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:41:27,838 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:41:59,441 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:42:05,237 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:42:07,284 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:42:53,351 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:42:55,416 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:42:57,480 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:42:59,516 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:01,580 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:17,034 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:17,039 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:19,101 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:21,161 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:23,226 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:25,467 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:38,060 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:40,127 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:43:56,685 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:06,960 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:23,991 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:25,446 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:27,510 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:40,310 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:44,473 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:49,142 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:53,641 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:44:55,677 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:07,712 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:09,757 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:11,804 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:13,931 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:15,992 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:18,053 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:20,106 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:22,159 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:24,225 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:26,287 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-06 23:45:28,492 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:12:12,176 - api - INFO - TensorFlow SavedModel loaded successfully from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 11:12:12,235 - api - INFO - Scaler parameters loaded successfully
+2025-07-07 11:12:12,235 - api - WARNING - Scaler expects 19 features but code expects 17. This may cause problems.
+2025-07-07 11:12:12,235 - api - INFO - Fraud Detection API started successfully
+2025-07-07 11:21:17,499 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:40,387 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:42,419 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:44,519 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:46,570 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:48,868 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:50,937 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:52,988 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:55,038 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:57,086 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 11:21:59,124 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:18:21,619 - api - INFO - TensorFlow SavedModel loaded successfully from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 13:18:21,670 - api - INFO - Scaler parameters loaded successfully
+2025-07-07 13:18:21,673 - api - WARNING - Scaler expects 19 features but code expects 17. This may cause problems.
+2025-07-07 13:18:21,673 - api - INFO - Fraud Detection API started successfully
+2025-07-07 13:19:24,157 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:19:46,792 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:19:48,909 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:19:50,992 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:19:53,058 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:19:55,174 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:19:57,324 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:19:59,390 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:20:01,540 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:20:03,598 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:20:05,658 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:20:13,357 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:20:15,422 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:41:54,930 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:42:26,462 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:52:38,398 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:54:24,428 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:54:29,277 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 13:54:31,380 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:04:38,574 - api - INFO - TensorFlow SavedModel loaded successfully from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 14:04:38,592 - api - INFO - Scaler parameters loaded successfully
+2025-07-07 14:04:38,592 - api - WARNING - Scaler expects 19 features but code expects 17. This may cause problems.
+2025-07-07 14:04:38,592 - api - INFO - Fraud Detection API started successfully
+2025-07-07 14:05:23,218 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:05:34,397 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:05:36,598 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:05:48,123 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:05:50,265 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:06:46,262 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:13:55,349 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:20:41,221 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:20:52,289 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:20:54,521 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:20:56,755 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:20:58,904 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:21:01,287 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:21:03,455 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:21:08,172 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:21:10,379 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:21:12,536 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 14:21:14,670 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 15:40:55,592 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:44:11,481 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 18:44:11,540 - api - INFO - Scaler loaded
+2025-07-07 18:44:11,540 - api - INFO - API started
+2025-07-07 18:51:19,487 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:33,936 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:36,069 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:38,177 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:40,335 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:42,443 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:44,585 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:46,619 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:48,805 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:51,049 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:51:53,111 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 18:53:33,464 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 19:23:48,567 - api - INFO - TensorFlow SavedModel loaded successfully from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 19:23:48,583 - api - INFO - Scaler parameters loaded successfully
+2025-07-07 19:23:48,583 - api - INFO - Fraud Detection API started successfully
+2025-07-07 19:28:59,102 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 21:34:14,534 - absl - INFO - Fingerprint not found. Saved model loading will continue.
+2025-07-07 21:34:14,565 - absl - INFO - path_and_singleprint metric could not be logged. Saved model loading will continue.
+2025-07-07 21:34:14,581 - api - INFO - TensorFlow SavedModel loaded successfully from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 21:34:14,623 - api - INFO - Scaler parameters loaded successfully
+2025-07-07 21:34:14,624 - api - INFO - Fraud Detection API started successfully
+2025-07-07 21:37:39,935 - api - INFO - TensorFlow SavedModel loaded successfully from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 21:37:39,951 - api - INFO - Scaler parameters loaded successfully
+2025-07-07 21:37:39,951 - api - INFO - Fraud Detection API started successfully
+2025-07-07 21:43:27,234 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:13:05,519 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:13:07,870 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:13:22,114 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:13:35,804 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:13:38,097 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:14:51,874 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:14:58,520 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:15:00,665 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:15:10,122 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:15:41,454 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:15:46,567 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:15:51,376 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:16:16,241 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:16:31,923 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:16:34,089 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:16:58,440 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:26:37,643 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:26:42,090 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:26:44,828 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:27:07,710 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:27:24,543 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 22:47:08,875 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-07 22:47:08,875 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-07 22:47:08,875 - api - INFO - API started with 19 expected features
+2025-07-07 23:09:10,210 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:09:19,945 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:33,793 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:33,970 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:34,243 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:34,508 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:34,782 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:34,905 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:35,214 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:35,374 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:35,677 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:35,861 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:36,173 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:36,314 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:36,475 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:36,781 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:39,755 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:50,722 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:50,996 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:51,106 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:51,328 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:51,522 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:51,658 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:51,842 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:52,072 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:52,383 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:52,487 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:52,588 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:52,721 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:52,946 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:53,273 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:53,374 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:54,656 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:54,885 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:55,020 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:55,181 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:55,270 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:55,551 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:55,691 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:55,816 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:55,919 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:56,054 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:56,239 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:56,440 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:56,736 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:56,875 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:57,964 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:58,188 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:58,304 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:10:58,484 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:11:04,954 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:11:06,122 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:11:07,171 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-07 23:11:46,957 - api - ERROR - Prediction failed: name 'time' is not defined
+2025-07-08 00:14:28,339 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 00:14:28,388 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 00:14:28,388 - api - INFO - API started with 19 expected features
+2025-07-08 01:16:38,659 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 01:16:38,675 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 01:16:38,676 - api - INFO - API started with 19 expected features
+2025-07-08 01:26:43,414 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 01:26:43,434 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 01:26:43,434 - api - INFO - API started with 19 expected features
+2025-07-08 11:10:37,192 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 11:10:37,206 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 11:10:37,206 - api - INFO - API started with 19 expected features
+2025-07-08 12:18:59,144 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 12:18:59,175 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 12:18:59,175 - api - INFO - API started with 19 expected features
+2025-07-08 12:40:05,446 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 12:40:05,477 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 12:40:05,477 - api - INFO - API started with 19 expected features
+2025-07-08 12:58:58,795 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 12:58:58,848 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 12:58:58,848 - api - INFO - API started with 19 expected features
+2025-07-08 13:42:30,418 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 13:42:30,434 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 13:42:30,434 - api - INFO - API started with 19 expected features
+2025-07-08 14:38:27,918 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 14:38:27,949 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 14:38:27,949 - api - INFO - API started with 19 expected features
+2025-07-08 15:43:35,003 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 15:43:35,038 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 15:43:35,038 - api - INFO - API started with 19 expected features
+2025-07-08 16:07:46,505 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 16:07:46,537 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 16:07:46,537 - api - INFO - API started with 19 expected features
+2025-07-08 16:23:36,943 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 16:23:36,958 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 16:23:36,958 - api - INFO - API started with 19 expected features
+2025-07-08 18:44:56,989 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 18:44:57,009 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 18:44:57,009 - api - INFO - API started with 19 expected features
+2025-07-08 19:07:47,364 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-08 19:07:47,383 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-08 19:07:47,383 - api - INFO - API started with 19 expected features
+2025-07-09 13:35:28,262 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 13:35:28,281 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 13:35:28,281 - api - INFO - API started with 19 expected features
+2025-07-09 14:07:46,051 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 14:07:46,105 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 14:07:46,105 - api - INFO - API started with 19 expected features
+2025-07-09 14:33:12,758 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 14:33:12,778 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 14:33:12,783 - api - INFO - API started with 19 expected features
+2025-07-09 14:45:31,896 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 14:45:31,912 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 14:45:31,912 - api - INFO - API started with 19 expected features
+2025-07-09 15:45:04,205 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 15:45:04,254 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 15:45:04,254 - api - INFO - API started with 19 expected features
+2025-07-09 16:00:41,895 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 16:00:41,910 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 16:00:41,910 - api - INFO - API started with 19 expected features
+2025-07-09 16:13:26,099 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 16:13:26,131 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 16:13:26,131 - api - INFO - API started with 19 expected features
+2025-07-09 16:45:42,534 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 16:45:42,553 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 16:45:42,553 - api - INFO - API started with 19 expected features
+2025-07-09 17:59:19,651 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 17:59:19,667 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 17:59:19,667 - api - INFO - API started with 19 expected features
+2025-07-09 18:09:12,476 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 18:09:12,495 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 18:09:12,495 - api - INFO - API started with 19 expected features
+2025-07-09 18:13:04,166 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 18:13:04,198 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 18:13:04,198 - api - INFO - API started with 19 expected features
+2025-07-09 18:27:46,808 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 18:27:46,827 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 18:27:46,827 - api - INFO - API started with 19 expected features
+2025-07-09 20:38:04,563 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 20:38:04,582 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 20:38:04,582 - api - INFO - API started with 19 expected features
+2025-07-09 21:08:52,882 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 21:08:52,901 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 21:08:52,901 - api - INFO - API started with 19 expected features
+2025-07-09 21:22:00,902 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 21:22:00,933 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 21:22:00,933 - api - INFO - API started with 19 expected features
+2025-07-09 22:26:22,663 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-09 22:26:22,694 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-09 22:26:22,694 - api - INFO - API started with 19 expected features
+2025-07-10 11:35:55,703 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 11:35:55,718 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 11:35:55,718 - api - INFO - API started with 19 expected features
+2025-07-10 11:40:07,377 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 11:40:07,377 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 11:40:07,377 - api - INFO - API started with 19 expected features
+2025-07-10 12:03:50,324 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 12:03:50,340 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 12:03:50,340 - api - INFO - API started with 19 expected features
+2025-07-10 12:23:52,888 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 12:23:52,904 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 12:23:52,904 - api - INFO - API started with 19 expected features
+2025-07-10 12:50:15,134 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 12:50:15,184 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 12:50:15,184 - api - INFO - API started with 19 expected features
+2025-07-10 12:56:57,584 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 12:56:57,584 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 12:56:57,584 - api - INFO - API started with 19 expected features
+2025-07-10 13:17:54,831 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 13:17:54,840 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 13:17:54,841 - api - INFO - API started with 19 expected features
+2025-07-10 13:23:16,940 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 13:23:16,940 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 13:23:16,940 - api - INFO - API started with 19 expected features
+2025-07-10 14:08:42,421 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 14:08:42,436 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 14:08:42,436 - api - INFO - API started with 19 expected features
+2025-07-10 14:49:40,612 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 14:49:40,628 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 14:49:40,644 - api - INFO - API started with 19 expected features
+2025-07-10 14:52:07,485 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-10 14:52:07,485 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-10 14:52:07,485 - api - INFO - API started with 19 expected features
+2025-07-11 20:52:30,974 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-11 20:52:30,982 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-11 20:52:30,982 - api - INFO - API started with 19 expected features
+2025-07-12 13:38:09,157 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-12 13:38:09,172 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-12 13:38:09,172 - api - INFO - API started with 19 expected features
+2025-07-12 13:45:49,924 - api - INFO - Model loaded from C:\Users\USER\Downloads\Detection\fraud-detection\models\gnn_fraud_classifier
+2025-07-12 13:45:49,935 - api - INFO - Scaler loaded successfully with 19 features
+2025-07-12 13:45:49,935 - api - INFO - API started with 19 expected features
