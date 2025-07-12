@@ -97,4 +97,116 @@ flowchart TB
     Frontend -->|API Calls| Backend
     Backend -->|Model Inference| GNN
     Backend -->|Logs| Database[(PostgreSQL)]
+    
+ Graph Neural Network (GNN) fraud detection model:
 
+Graph Attention Network (GAT) Fraud Detection Model
+Overview
+This model implements a Graph Attention Network (GAT) for detecting fraudulent transactions in financial networks. The architecture leverages graph-structured data where transactions are represented as nodes and relationships between them as edges.
+
+Key Features
+Graph Attention Network implementation using Spektral's GATConv
+
+Scalable training with sparse adjacency matrices
+
+Production-ready serving with TensorFlow SavedModel
+
+Feature normalization integrated into the serving pipeline
+
+Flexible input handling for both sparse and dense adjacency matrices
+
+Model Architecture
+Components
+1. GATConvWrapper
+python
+Copy
+Download
+class GATConvWrapper(tf.keras.layers.Layer)
+Wraps Spektral's GATConv layer for TensorFlow 2.x compatibility
+
+Handles attention heads configuration (multi-head attention)
+
+Parameters:
+
+units: Output dimension
+
+attn_heads: Number of attention heads
+
+concat_heads: Whether to concatenate head outputs
+
+2. GNNClassifier
+python
+Copy
+Download
+class GNNClassifier(tf.keras.Model)
+Two-layer GAT architecture with dropout regularization
+
+Architecture:
+
+First GAT layer (4 attention heads, ReLU activation)
+
+Dropout (30%)
+
+Second GAT layer (single attention head)
+
+Dropout (30%)
+
+Dense classification layer
+
+3. GNNExportWrapper
+python
+Copy
+Download
+class GNNExportWrapper(tf.Module)
+Production serving wrapper
+
+Includes built-in feature normalization
+
+Provides two serving functions:
+
+serve_sparse: For sparse adjacency matrices
+
+serve_dense: For dense adjacency matrices
+
+Data Preparation
+Input Format
+The model expects graph data in a tuple format with:
+
+x: Node features (transactions) as numpy array
+
+y: Labels as numpy array
+
+a: Adjacency matrix (sparse or dense)
+
+Preprocessing
+Feature Scaling: StandardScaler normalization
+
+Adjacency Matrix Conversion: Handles both sparse and dense formats
+
+Train-Test Split: Stratified 80-20 split
+
+Training Pipeline
+Key Steps
+Data Loading: Load and preprocess transaction data
+
+Model Initialization: Build GNN architecture
+
+Training Loop:
+
+Uses Adam optimizer (learning rate=0.01)
+
+Sparse Categorical Crossentropy loss
+
+Batch training on full graph
+
+Evaluation:
+
+Classification report
+
+Probability threshold at 0.4 for fraud detection
+
+Model Export:
+
+Saves as TensorFlow SavedModel
+
+Includes scaler parameters
